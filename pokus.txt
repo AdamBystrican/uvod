@@ -1,2 +1,6 @@
     hura!
+    zmena v ramci vetvy
+    dalsi riadok
+    a dalsi riadok
+    a dalsi
     zmena v maine
