@@ -1,3 +1,4 @@
     hura!
     zmena v ramci vetvy
     dalsi riadok
+    a dalsi riadok
